@@ -12,7 +12,8 @@ This is a repository for the CCC 2019 (November) solutions that my group made.
 ## Folder structure
 
 * `src`: All source code files (scripts, classes...)
-* `inputs`: Directory where all the provided inputs are stored. All the files inside are assumed to be named `levelX_Y.in` .
-* `outputs`: Directory where all the generated outputs are stored. All the files generated inside will be named `levelX_Y.out` .
-* `docs`:
+* `docs`: All of the PDFs explaining each level problem.
+* `inputs`: Directory where all the provided inputs are stored. All the files inside are assumed to be named `levelX_Y.in`.
+* `outputs`: Directory where all the generated outputs are stored. All the files generated inside will be named `levelX_Y.out`.
+
 
