@@ -7,7 +7,7 @@ This is a repository for the CCC 2019 (November) solutions that my group made.
 * **Group name:** Process of Rage
 * **Member #1:** Carlos Gomez Hernandez [(Github)](https://github.com/kurolox)
 * **Member #2:** Carlos Lobo Mata [(Github)](https://github.com/clm2609)
-* **Member #3:** Antonio Roman Lopez
+* **Member #3:** Antonio Roman Lopez [(Github)](https://github.com/ttoso)
 
 ## Folder structure
 
