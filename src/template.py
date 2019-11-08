@@ -7,8 +7,8 @@ INPUT_FILE = 1
 
 # Input/Output file path
 SCRIPT_PATH = path.dirname(path.abspath(__file__))
-INPUT = f"{SCRIPT_PATH}/../level{CCC_LEVEL}_{INPUT_FILE}.in"
-OUTPUT = f"{SCRIPT_PATH}/../level{CCC_LEVEL}_{INPUT_FILE}.out"
+INPUT = f"{SCRIPT_PATH}/../inputs/level{CCC_LEVEL}_{INPUT_FILE}.in"
+OUTPUT = f"{SCRIPT_PATH}/../outputs/level{CCC_LEVEL}_{INPUT_FILE}.out"
 
 
 def add_to_output(line: str) -> None:
@@ -25,5 +25,4 @@ if __name__ == "__main__":
 
     with open(INPUT, "r") as problem_input:
         for n, line in enumerate(problem_input):
-            # Do stuff with the input
             pass
