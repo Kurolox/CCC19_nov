@@ -134,3 +134,6 @@ venv.bak/
 pip-selfcheck.json
 
 # End of https://www.gitignore.io/api/venv,code,python
+
+# Ignore vscode folder
+.vscode
